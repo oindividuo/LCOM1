@@ -1,0 +1,2 @@
+
+tank.o:	tank.c
