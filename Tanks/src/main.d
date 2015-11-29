@@ -48,4 +48,12 @@ main.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/string.h
 main.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/syslimits.h
 main.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include-fixed/unistd.h
 main.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include/stdarg.h
+main.o:	/usr/pkg/gcc44/lib/gcc/i686-pc-minix/4.4.3/include/stdbool.h
+main.o:	bitmap.h
+main.o:	i8042.h
+main.o:	i8254.h
+main.o:	kbd.h
 main.o:	main.c
+main.o:	mouse.h
+main.o:	tank.h
+main.o:	timer.h
